@@ -1,6 +1,0 @@
-streamlit
-Pillow
-pytesseract
-numpy
-scikit-learn
-Werkzeug
